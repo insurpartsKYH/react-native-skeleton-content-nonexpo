@@ -58,7 +58,7 @@
   },
   "peerDependencies": {
     "react-native-linear-gradient": "^2.5.1",
-    "react-native-reanimated": "^2.1.0"
+    "react-native-reanimated": "3.0.2"
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.10.1",
